@@ -1,3 +1,3 @@
 # code
 github code
- repository for github
+ repository for github. tutorial github.
